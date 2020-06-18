@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://hugo-3005.youre.space:55900/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 13:36:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://hugo-3005.youre.space:55900/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://hugo-3005.youre.space:55900/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Jun 2020 13:36:21 +0000</pubDate>
+      
+      <guid>http://hugo-3005.youre.space:55900/posts/my-first-post/</guid>
+      <description>h1 paragraph
+h2 I like it.</description>
+    </item>
+    
+  </channel>
+</rss>
