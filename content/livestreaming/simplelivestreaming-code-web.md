@@ -20,7 +20,7 @@
 
 {% tabs %}
 {% tab title="simplewatch.html" %}
-```markup
+```htmlembedded=
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -44,7 +44,7 @@
 
 {% tabs %}
 {% tab title="simplewatch.html" %}
-```markup
+```htmlembedded=
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -84,7 +84,7 @@ video 요소 1개를 추가합니다. 방송의 영상을 표시하기 위해서
 
 {% tabs %}
 {% tab title="simplewatch.html" %}
-```markup
+```htmlembedded=
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -133,7 +133,7 @@ video 요소 1개를 추가합니다. 방송의 영상을 표시하기 위해서
 
 {% tabs %}
 {% tab title="simplewatch.html" %}
-```markup
+```htmlembedded=
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -212,7 +212,7 @@ video 요소의 크기를 조절하고 배치를 바꾸어 보기 좋게 합니�
 
 {% tabs %}
 {% tab title="simplewatch.html" %}
-```markup
+```htmlembedded=
 <!DOCTYPE html>
 <html lang="ko">
 <head>
