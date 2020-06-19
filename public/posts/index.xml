@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>방송 5 분 안에 시작하기</title>
       <link>http://hugo-3005.youre.space:55900/posts/my-first-post/</link>
       <pubDate>Thu, 18 Jun 2020 13:36:21 +0000</pubDate>
       
       <guid>http://hugo-3005.youre.space:55900/posts/my-first-post/</guid>
-      <description>h1 paragraph
-h2 I like it.</description>
+      <description>방송 5 분 안에 시작하기 :-D &amp;ldquo;5분 안에 시작하기&amp;rdquo;로 빨리 방송/통화를 체험해봅니다. 5분 안에 시작하기는 다음의 내용으로 이루어져있습니다.
+ Service ID와 Secret Key 확인 샘플 앱으로 방송/시청 실시 웹 콘솔에서 이 방송에 대한 정보 조회  준비 사항  웹 콘솔 회원 가입 : https://console.remotemonster.com/ GitHub 계정 또는 HTTPS가 지원되는 웹 호스팅  Service ID와 Secret Key 확인 리모트몬스터 콘솔을 방문하여 회원가입을 하고 &amp;ldquo;기본 프로젝트&amp;rdquo;를 선택합니다. Service ID와 Secret Key(Service Key)를 확인합니다.</description>
     </item>
     
   </channel>

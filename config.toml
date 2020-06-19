@@ -1,4 +1,4 @@
 baseURL = "http://hugo-3005.youre.space:55900/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "techdoc"

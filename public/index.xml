@@ -12,13 +12,54 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>방송 5 분 안에 시작하기</title>
       <link>http://hugo-3005.youre.space:55900/posts/my-first-post/</link>
       <pubDate>Thu, 18 Jun 2020 13:36:21 +0000</pubDate>
       
       <guid>http://hugo-3005.youre.space:55900/posts/my-first-post/</guid>
-      <description>h1 paragraph
-h2 I like it.</description>
+      <description>방송 5 분 안에 시작하기 :-D &amp;ldquo;5분 안에 시작하기&amp;rdquo;로 빨리 방송/통화를 체험해봅니다. 5분 안에 시작하기는 다음의 내용으로 이루어져있습니다.
+ Service ID와 Secret Key 확인 샘플 앱으로 방송/시청 실시 웹 콘솔에서 이 방송에 대한 정보 조회  준비 사항  웹 콘솔 회원 가입 : https://console.remotemonster.com/ GitHub 계정 또는 HTTPS가 지원되는 웹 호스팅  Service ID와 Secret Key 확인 리모트몬스터 콘솔을 방문하여 회원가입을 하고 &amp;ldquo;기본 프로젝트&amp;rdquo;를 선택합니다. Service ID와 Secret Key(Service Key)를 확인합니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://hugo-3005.youre.space:55900/livestreaming/create-key/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo-3005.youre.space:55900/livestreaming/create-key/</guid>
+      <description>방송 키 발급 개요 RemoteMonster를 이용하려면 Service ID와 Key를 반드시 발급 받아야 합니다. Service ID는 리모트몬스터 사용자가 만드는 앱에 부여됩니다. Key는 사용자가 만든 앱의 리모트몬스터 플랫폼 이용 권한을 확인하는데 사용됩니다. 한 사용자가 여러 앱을 만들 경우 Service ID와 Key 또한 여러 개가 필요합니다. ServiceID는 사용량과 과금액을 구분하는 데에도 사용됩니다.
+리모트몬스터 웹 콘솔 리모트몬스터 웹 콘솔을 이용하면 앱에서 통화가 잘 이루어지고 있는지 확인할 수 있습니다.
+새로운 통화 앱을 만들 때, 이 앱을 위한 새로운 Service ID와 Key를 생성할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://hugo-3005.youre.space:55900/livestreaming/livestreaming-quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo-3005.youre.space:55900/livestreaming/livestreaming-quickstart/</guid>
+      <description>방송 5 분 안에 시작하기 &amp;ldquo;5분 안에 시작하기&amp;rdquo;로 빨리 방송/통화를 체험해봅니다. 5분 안에 시작하기는 다음의 내용으로 이루어져있습니다.
+ Service ID와 Secret Key 확인 샘플 앱으로 방송/시청 실시 웹 콘솔에서 이 방송에 대한 정보 조회  준비 사항  웹 콘솔 회원 가입 : https://console.remotemonster.com/ GitHub 계정 또는 HTTPS가 지원되는 웹 호스팅  Service ID와 Secret Key 확인 리모트몬스터 콘솔을 방문하여 회원가입을 하고 &amp;ldquo;기본 프로젝트&amp;rdquo;를 선택합니다. Service ID와 Secret Key(Service Key)를 확인합니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://hugo-3005.youre.space:55900/livestreaming/new-project-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo-3005.youre.space:55900/livestreaming/new-project-web/</guid>
+      <description>새 방송 프로젝트 설정 - Web 준비사항   Project ID (Service ID) 키 발급 웹 브라우저, 프론트엔드 개발 환경 WebRTC를 지원하는 브라우저  프로젝트 생성 및 설정 웹 브라우저에서 RemoteMonster를 이용할 때에는 JavaScript 라이브러리를 이용합니다. 일반적인 웹 프론트엔드 개발 준비를 하면 됩니다.
+CDN으로 라이브러리 추가 (권장) jsDelivr CDN에 있는 RemoteMonster SDK를 이용할 수 있습니다. 아래와 같이 Latest 또는 Specific version을 HTML 파일에 삽입하십시오.
+adapter.js 최신 버전을 remon.js 앞에 삽입해주십시오.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://hugo-3005.youre.space:55900/livestreaming/simplelivestreaming-code-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo-3005.youre.space:55900/livestreaming/simplelivestreaming-code-web/</guid>
+      <description>단순 시청 앱 만들기 - Web 목차  HTML 템플릿 받아서 풀어놓기 JavaScript 라이브러리 파일 추가, Config 만들기 동영상이 표시될 요소(video tag) 추가 채널에 들어가기, 채널ID 확인하기 테스트 하기 아주 조금 예쁘게 하기, 통화 상태 표시하기  준비사항  Service Id https 지원 웹 서버 또는 웹 호스팅  HTML 템플릿 받아서 풀어놓기 단순 시청 앱 HTML 템플릿을 다운로드하여 풀어 놓습니다. simplewatch.html, complete.html, simplelivestreaming.html 3개의 파일을 확인하십시오. 내용이 비어있는 simplewatch.</description>
     </item>
     
   </channel>
