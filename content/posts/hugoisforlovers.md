@@ -87,3 +87,14 @@ Having nearly instant feedback enables you to have your creativity flow without 
 ## Step 4. Have fun
 
 The best way to learn something is to play with it.
+
+
+```htmlmixed=
+<p>
+  <code>
+  function () => {
+    console.log("loow");
+  }
+  </code>
+</p>
+```
