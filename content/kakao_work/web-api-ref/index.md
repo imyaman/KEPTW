@@ -2,6 +2,7 @@
 bookHidden: false
 title: "Web API 레퍼런스"
 weight: 20
+tags: kakao_work
 ---
 
 # Web API 레퍼런스
