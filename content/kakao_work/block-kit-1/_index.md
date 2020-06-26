@@ -224,7 +224,7 @@ Block Kit 구성 및 정책
 }
 ```
 
-
+###### tags: kakao_work
 
 
 ---
