@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: Block Kit 구성 및 정책
 type: docs
 bookHidden: false
