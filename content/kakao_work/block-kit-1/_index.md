@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Block Kit
+title: Block Kit 구성 및 정책
 type: docs
 bookHidden: false
 ---
