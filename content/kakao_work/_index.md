@@ -2,6 +2,7 @@
 weight: 1
 bookCollapseSection: true
 title: "Kakao Work"
+tags: kakao_work
 ---
 
 # Kakao Work
