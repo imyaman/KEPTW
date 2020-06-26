@@ -1,6 +1,7 @@
 ---
 title: 시작하기
 weight: 1
+tags: kakao_work
 ---
 
 # 시작하기
