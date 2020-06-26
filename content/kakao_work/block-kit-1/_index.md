@@ -3,6 +3,7 @@ weight: 10
 title: Block Kit 구성 및 정책
 type: docs
 bookHidden: false
+tags: kakao_work
 ---
 
 # Appendix A. 조합형 말풍선 예시
@@ -223,8 +224,6 @@ Block Kit 구성 및 정책
    ]
 }
 ```
-
-###### tags: kakao_work
 
 
 ---
