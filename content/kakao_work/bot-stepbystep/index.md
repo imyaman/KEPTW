@@ -1,6 +1,8 @@
 ---
 bookHidden: false
 title: Bot 시작 가이드
+weight: 30
+tags: kakao_work
 ---
 
 # Bot 시작 가이드
