@@ -11,7 +11,7 @@ hackmd:
 
 ## 개발 프로세스
 
-Android Studio 설정을 완료 후, 아래 순서에 따라 Kakao i SDK 연동 개발을 진행합니다. 
+Android Studio 설정을 완료 후, 아래 순서에 따라 Kakao i SDK 연동 개발을 진행합니다. (수정1)
 
 
 ## **사전 작업**
