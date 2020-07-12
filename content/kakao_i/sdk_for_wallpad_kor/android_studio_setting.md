@@ -1,3 +1,12 @@
+---
+weight: 20
+title: Android Studio 설정
+type: docs
+bookHidden: false
+tags: kakao_i
+hackmd: 
+---
+
 # Android Studio 설정
 
 
