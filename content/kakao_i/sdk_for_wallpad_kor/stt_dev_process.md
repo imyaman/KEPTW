@@ -1,3 +1,12 @@
+---
+weight: 30
+title: 음성 인식 개발 프로세스
+type: docs
+bookHidden: false
+tags: kakao_i
+hackmd: 
+---
+
 # 음성 인식 개발 프로세스
 
 ## **개발 프로세스**
