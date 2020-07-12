@@ -4,14 +4,12 @@ tags: 000000-목차
 
 # 목차
 
-## Kakao Work
+## Kakao i Engine
 
-- [Block Kit 구성 및 정책](/tAsifvlvRP6zqlmrHtXpKg)
+### SDK 가이드
 
-- [Web API 레퍼런스](/h74Gy4ciSHqShrO5wQwkWw)
-
-- [Bot 시작 가이드](/-dhyJavWTPKMstU-uJIN-g)
-
+- [SDK for Wallpad_KOR_v.1.0](/wYkPeVgcReqQrEmp-OArlQ)
+- [SDK for Android_KOR_v.1.0](/u9pihwS7RPq30r0FOR8yXA)
 
 ## Kakao i Cloud
 
@@ -22,12 +20,6 @@ tags: 000000-목차
 
 - [Web API 레퍼런스](/h74Gy4ciSHqShrO5wQwkWw)
 
-## Kakao i Engine
-
-### SDK 가이드
-
-- [SDK for Wallpad_KOR_v.1.0](/wYkPeVgcReqQrEmp-OArlQ)
-- [SDK for Android_KOR_v.1.0](/u9pihwS7RPq30r0FOR8yXA)
 
 ### Instance 가이드
 
@@ -40,3 +32,11 @@ tags: 000000-목차
 - [키친싱크](/Hrsm7Z35QhKlUajnM5oTFg)
 
 - [추가](/orRBCgmkTdifttM8AeavGA)
+
+## Kakao Work
+
+- [Block Kit 구성 및 정책](/tAsifvlvRP6zqlmrHtXpKg)
+
+- [Web API 레퍼런스](/h74Gy4ciSHqShrO5wQwkWw)
+
+- [Bot 시작 가이드](/-dhyJavWTPKMstU-uJIN-g)
