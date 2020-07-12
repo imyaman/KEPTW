@@ -24,6 +24,14 @@ tags: 000000-목차
 
 ## Kakao i Engine
 
+### SDK 가이드
+
+- [SDK for Wallpad_KOR_v.1.0](/wYkPeVgcReqQrEmp-OArlQ)
+- [SDK for Android_KOR_v.1.0](/u9pihwS7RPq30r0FOR8yXA)
+
+### Instance 가이드
+
+
 - [Skill API 레퍼런스](/g--qt4vhQFqUssIzT9ylfw)
 
 
