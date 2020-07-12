@@ -51,13 +51,13 @@ Kakao i SDK for Wallpad의 구성 요소는 다음과 같습니다.
 ## Android Studio 설정
 
 
-## 프로젝트에서 SDK 사용
+### 프로젝트에서 SDK 사용
 
 
 
 프로젝트에서 Kakao i SDK를 사용하기 위해서 다음 순서에 따라 Kakao i SDK를 빌드 의존성으로 추가한 후 불러오기를 진행합니다
 
-## Gradle 설정
+### Gradle 설정
 
 
 
@@ -125,7 +125,7 @@ Kakao i SDK for Wallpad의 구성 요소는 다음과 같습니다.
 
 6. 프로젝트를 빌드하면, Kakao i SDK를 애플리케이션에 가져올 수 있습니다.
 
-## Manifest 설정
+### Manifest 설정
 
 
 
@@ -146,14 +146,14 @@ Kakao i SDK for Wallpad의 구성 요소는 다음과 같습니다.
 **참고**
 * Manifest에 퍼미션 허용에 대한 상세 내용은 [Google Developers](https://developer.android.com/guide/topics/manifest/uses-permission-element) 사이트에서 확인하실 수 있습니다.
 
-# 음성 인식 개발 프로세스
+## 음성 인식 개발 프로세스
 
-## **개발 프로세스**
+### **개발 프로세스**
 
 Android Studio 설정을 완료 후, 아래 순서에 따라 Kakao i SDK 연동 개발을 진행합니다. 
 
 
-## **사전 작업**
+### **사전 작업**
 
 
 
@@ -164,7 +164,7 @@ Android Studio 설정을 완료 후, 아래 순서에 따라 Kakao i SDK 연동 
 - [Kakao Developers](https://developers.kakao.com/)에 애플리케이션 등록
 -  [Kakao Developers](https://developers.kakao.com/)에 애플리케이션을 생성하는 방법은 Kakao i PM에게 문의 부탁드립니다.
 
-## Kakao i SDK 초기화
+### Kakao i SDK 초기화
 
 
 
@@ -194,7 +194,7 @@ Kakao i SDK를 초기화하기 위해서 하기 순서에 따라 `Application.on
 4. 만약 Kakao i SDK에 기본 탑재된 View Template이 아닌 다른 View Template을 구현해서 사용할 경우,  `provideTemplateHandler()`을 확장합니다.
     - [의존성 추가](https://www.notion.so/Android-Studio-7db86e9315374e88ad422016af64bdd0#dacf2a5193dd4cd7b0bf0fd5023c979d) 작업 시, `com.kakao.i:sdk-android-agent`항목 추가가 필요합니다.
 
-### **예제 코드**
+#### **예제 코드**
 
 다음은 `provideKakaoIAuth()`, `providePackageInfo()`, `provideTemplateHandler()` 메서드를 사용하여 Kakao i SDK를 초기화한 예시입니다.
 
@@ -233,7 +233,7 @@ override fun onCreate() {
 
 [ 표. Kakao i SDK 모듈](https://www.notion.so/7459a03038644037a18c2e88a330a1a6)
 
-## 헤이카카오 가입
+### 헤이카카오 가입
 
 [https://www.notion.so/f16eb5dcc57f48979a8b620e1ef4aac0#87082a4afb4c496cbd454ce481d61c0b](https://www.notion.so/f16eb5dcc57f48979a8b620e1ef4aac0#87082a4afb4c496cbd454ce481d61c0b)
 
@@ -254,7 +254,7 @@ Kakao i 음성 인식 서비스를 이용하기 위해서 사용자는 [헤이�
 
 [표. checkAccount 콜백](https://www.notion.so/65ef8251325a41ec83d99078e74f2f44)
 
-### **예제 코드**
+#### **예제 코드**
 
 다음은 `checkAccount()` 콜백 메서드를 사용한 예제입니다.
 
@@ -296,7 +296,7 @@ KakaoI.checkAccount(object : KakaoI.OnCheckCallback {
 })
 ```
 
-## Permission 확인
+### Permission 확인
 
 
 
@@ -304,7 +304,7 @@ KakaoI.checkAccount(object : KakaoI.OnCheckCallback {
 
 [표. Runtime Permission](https://www.notion.so/152fcef17b2247648f70643ce74f6074)
 
-## 음성 인식 활성화
+### 음성 인식 활성화
 
 
 
@@ -318,7 +318,7 @@ KakaoI.setEnabled(true)
 * Wake-up word(호출명령어)의 초기 값은 “헤이카카오”로 고정되지만, 최종 사용자는 설정 화면에서 다른 Wake-up word를 설정할 수 있습니다. 
 * Wake-up word가 유입될 때, 발화 효과음을 재생하는 과정은 Kakao i SDK 내부적으로 수행됩니다.
 
-## 클래스 구현
+### 클래스 구현
 
 
 
@@ -339,7 +339,7 @@ KakaoI.setEnabled(true)
 3. **음성 인식 종료** 
     - `stopRecognition()` 메서드를 호출하여 음성 인식을 중간에 종료할 수 있습니다.
 
-### 예제 코드
+#### 예제 코드
 
 음성 인식 클래스 구현 시 필요한 샘플 코드는 다음과 같습니다.
 
@@ -424,7 +424,7 @@ class RecognizeActivity : Activity {
 }
 ```
 
-## 음성 인식 결과 화면 출력
+### 음성 인식 결과 화면 출력
 
 
 
@@ -435,7 +435,7 @@ Kakao i SDK는 기본적인 View Template을 제공하지만, 클라이언트의
 *  View Template 수정 시에도  음성 답변은 Kakao i SDK를 통해 재생됩니다.
  * View Template 구현에 관한 자세한 내용은 [Kakao i Engine] View Template 가이드를 참고하시기 바랍니다.
 
-## 설정 화면 출력
+### 설정 화면 출력
 
 
 
