@@ -1,3 +1,12 @@
+---
+weight: 10
+title: 시작하기
+type: docs
+bookHidden: false
+tags: kakao_i
+hackmd: 
+---
+
 # 시작하기
 
 이 문서는 Wallpad 디바이스에서 Kakao i 음성 인식 서비스를 사용하기 위하여 Kakao i SDK for Wallpad를 이용한 개발 가이드로서, 고객사의 개발자를 대상으로 작성되었습니다. 
