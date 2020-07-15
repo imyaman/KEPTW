@@ -1,7 +1,7 @@
 # SDK for Wallpad_KOR_v.1.0
 
 
-## 시작하기
+## 빨리 시작하기 
 
 이 문서는 Wallpad 디바이스에서 Kakao i 음성 인식 서비스를 사용하기 위하여 Kakao i SDK for Wallpad를 이용한 개발 가이드로서, 고객사의 개발자를 대상으로 작성되었습니다. 
 
