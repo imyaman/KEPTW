@@ -1,6 +1,6 @@
 ---
 title: 기술문서 홈 - 카카오 엔터프라이즈
-type: docs
+type: doc
 bookToc: false
 ---
 
