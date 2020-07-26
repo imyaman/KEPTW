@@ -34,6 +34,11 @@ copyright = "Kakao Enterprise Corp."
   url = "https://www.kakaoenterprise.com"
   weight = 20
 
+[[menu.after]]
+  name = "API 레퍼런스"
+  url = "https://keptw.saramara.ai/tags/api-%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4/"
+  weight = 30
+
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
