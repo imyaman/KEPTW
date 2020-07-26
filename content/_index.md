@@ -1,6 +1,6 @@
 ---
-title: Introduction
-type: posts
+title: 기술문서 홈 - 카카오 엔터프라이즈
+type: docs
 ---
 
 # Acerbo datus maxime
