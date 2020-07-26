@@ -7,8 +7,6 @@ bookToc: false
 type: list
 ---
 
-# Kakao Work
-
 ## 소개
 
 Kakao Work의 한글 표기는 `카카오 워크` 입니다. 표기에 주의해주십시오. 
