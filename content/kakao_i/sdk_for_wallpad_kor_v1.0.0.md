@@ -1,3 +1,7 @@
+---
+tags: kakao_i, SDK_
+---
+
 # SDK for Wallpad_KOR_v.1.0
 
 
