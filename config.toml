@@ -1,7 +1,26 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://keptw.saramara.ai/"
+languageCode = "ko-kr"
+title = "Knowhere"
 theme = "book"
+
+DefaultContentLanguage = "ko"
+copyright = "Kakao Enterprise Corp."
+
+[languages]
+  [languages.ko]
+    title = "노웨어"
+    contentDir: content
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+  [languages.en]
+    title = "Knowhere"
+    weight = 2
+    contentDir: content.en
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
 
 [params]
   BookSection = '*'
+
+
