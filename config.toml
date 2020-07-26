@@ -8,12 +8,14 @@ copyright = "Kakao Enterprise Corp."
 
 [languages]
   [languages.ko]
+    languageName = '한국어'
     title = "노웨어"
     contentDir = "content"
     weight = 1
     [languages.ko.params]
       linkedin = "https://linkedin.com/whoever"
   [languages.en]
+    languageName = 'English'
     title = "Knowhere"
     weight = 2
     contentDir = "content.en"
