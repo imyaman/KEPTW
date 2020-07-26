@@ -1,7 +1,7 @@
 ---
 bookHidden: false
-title: Bot 시작 가이드
-weight: 30
+title: 020301_Bot 시작 가이드
+weight: 5
 tags: kakao_work
 ---
 
@@ -17,6 +17,9 @@ tags: kakao_work
 
 
 Bot 등록 과정에서 전달받은 인증토큰(Access Token)을 HTTP 요청(Request)의 `Authorization` 헤더를 통해 전달하여 어떤 Bot에서 받은 요청인지 인증 및 권한을 검사해야 합니다. 아래 순서에 따라 Bot 인증을 요청합니다.
+
+![](https://i.imgur.com/w2zlkvW.png)
+
 
 :::info
 1. Bot 생성 및 등록 후, Access Token을 발급받습니다.
