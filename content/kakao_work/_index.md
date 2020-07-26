@@ -4,7 +4,6 @@ bookCollapseSection: true
 title: "Kakao Work"
 tags: kakao_work
 bookToc: false
-type: list
 ---
 
 ## 소개
