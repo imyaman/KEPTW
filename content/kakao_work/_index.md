@@ -18,10 +18,13 @@ Kakao i Engine 하위 문서의 수가 많아 상품별 첫 화면에 분류 표
 ```
 
 
-## 이 섹션이 다룰 내용
+## 수동으로 만든 목록 (\_index.md 파일에 입력)
 
 [Block Kit 구성 및 정책](/tAsifvlvRP6zqlmrHtXpKg)
 
 [Web API 레퍼런스](/h74Gy4ciSHqShrO5wQwkWw)
 
 [Bot 시작 가이드](/-dhyJavWTPKMstU-uJIN-g)
+
+
+## 자동으로 만든 목록 ( content/kakao_work 디렉토리의 내용으로 생성)
