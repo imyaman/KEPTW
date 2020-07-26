@@ -204,3 +204,49 @@ This paragraph has some `code` in it.
 
     ![Alt Text](https://get.svg.workers.dev/?s=64&f=gray "Image Title")
 
+
+
+## Unordered list
+
+* Item 1
+* Item 2
+* Item 3
+    * Item 3a
+    * Item 3b
+    * Item 3c
+
+## Ordered list
+
+1. Step 1
+2. Step 2
+3. Step 3
+    1. Step 3.1
+        1. then this
+        2. then this
+            1. Step 1
+                1. Step 1
+                2. Step 2
+                    1. Step 1
+                    2. Step 2
+                    3. Step 3
+                3. Step 3
+            2. Step 2
+            3. Step 3
+    2. Step 3.2
+    3. Step 3.3
+
+## List in list
+
+1. Step 1
+2. Step 2
+3. Step 3
+    * Item 3a
+    * Item 3b
+    * Item 3c
+
+
+1. For this
+   1. do this
+      1. then this
+      2. then this
+   2. do this too
