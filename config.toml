@@ -24,14 +24,14 @@ copyright = "Kakao Enterprise Corp."
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+[[menu.before]]
+  name = "상단공통메뉴1"
+  url = "https://www.kakaoicloud.com/"
   weight = 10
 
 [[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
+  name = "하단공통메뉴1"
+  url = "https://www.kakaoenterprise.com"
   weight = 20
 
 [params]
