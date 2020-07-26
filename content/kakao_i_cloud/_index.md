@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 20
 bookCollapseSection: true
 title: "Kakao i Cloud"
 tags: kakao_i_cloud
