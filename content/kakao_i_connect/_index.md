@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 40
 bookCollapseSection: true
 title: "Kakao i Connect"
 tags: kakao_i_connect
