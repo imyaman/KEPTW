@@ -9,7 +9,6 @@
 <body dir={{ .Site.Language.LanguageDirection }}>
   <input type="checkbox" class="hidden" id="menu-control" />
   <main class="container flex">
-    themes/book/layout/pmain/single.html 이 적용된 문서
     <aside class="book-menu">
       {{ template "menu" . }} <!-- Left menu Content -->
     </aside>
@@ -18,6 +17,7 @@
       <header class="book-header">
         {{ template "header" . }} <!-- Mobile layout header -->
       </header>
+    themes/book/layout/pmain/single.html 이 적용된 문서
 
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
