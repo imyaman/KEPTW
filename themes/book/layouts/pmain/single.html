@@ -20,7 +20,9 @@
     themes/book/layout/pmain/single.html 이 적용된 문서
 
       {{ partial "docs/inject/content-before" . }}
+      partial content-before 끝
       {{ template "main" . }} <!-- Page Content -->
+      partial content-after 시작
       {{ partial "docs/inject/content-after" . }}
 
       <footer class="book-footer">
