@@ -4,7 +4,7 @@ bookCollapseSection: true
 title: "Kakao i Connect"
 tags: kakao_i_connect
 bookToc: false
-type: list
+type: pmain
 ---
 
 ## 소개
